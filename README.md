@@ -1,1 +1,1 @@
-# chess-magician
+# chess-magician.lv
